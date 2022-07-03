@@ -22,7 +22,7 @@
 
 I am a Front End Developer from Poland.
 
-- :telescope: I’m contributing to frontend and sometimes backend for building web applications.
+- :telescope: I’m contributing to frontend and sometimes backend for building web applications. 
 
 - :seedling: In my free time I code C++ for embedded systems. I'm passionate about ham radio and I build most of my radioshack by myself.
 
@@ -44,4 +44,4 @@ I am a Front End Developer from Poland.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipCichowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipCichowski&theme=outrun)](https://github.com/FilipCichowski)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipCichowski&theme=highcontrast)](https://github.com/FilipCichowski)
