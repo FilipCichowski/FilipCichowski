@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/filip-cichowski-a550421b1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCYBWYS4_W2ANYH_Q_JKdpIA/videos">
+  <a href="https://www.youtube.com/channel/UCBfPJbqyejSzLgbuxu4Yl6w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/CichowskiFilip">
